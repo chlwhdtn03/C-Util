@@ -1,0 +1,4 @@
+name: C-Util
+version: 1.0
+main: util.chlwhdtn.CUtil
+softdepend: [C-Economy]
